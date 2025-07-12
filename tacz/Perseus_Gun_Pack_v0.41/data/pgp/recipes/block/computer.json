@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+      "item": "tacz:workbench_a",
+      "nbt":{
+        "BlockId": "pgp:computer"
+      }
+    },
+    "pattern": [
+      "III",
+      "IRI",
+      "III"
+    ],
+    "key": {
+      "R": {
+        "tag": "forge:storage_blocks/redstone"
+      },
+      "I": {
+        "tag": "forge:ingots/iron"
+      }
+    }
+  }

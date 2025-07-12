@@ -1,0 +1,12 @@
+{
+	"weight": 0,
+	"damage": {
+		"multiplier":2
+	},
+	"pierce": {
+		"multiplier": 2.5
+	}, 
+	"ammo_speed": {
+		"multiplier": 10
+	}
+}

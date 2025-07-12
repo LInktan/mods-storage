@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+      "item": "tacz:workbench_c",
+      "nbt":{
+        "BlockId": "pgp:printer_small"
+      }
+    },
+    "pattern": [
+      " I ",
+      " R ",
+      " B "
+    ],
+    "key": {
+      "R": {
+        "tag": "forge:storage_blocks/redstone"
+      },
+      "I": {
+        "tag": "forge:ingots/iron"
+      },
+      "B": {
+        "item": "minecraft:iron_block"
+      }
+    }
+  }

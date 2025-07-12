@@ -1,0 +1,22 @@
+{
+	"weight": 1.2,
+	"extended_mag_level": 1,
+	"damage": {
+		"percent":0.2
+	},
+	"pierce": {
+		"addend":1
+	},
+	"armor_ignore":{
+		"addend": 0.2
+	},
+	"head_shot":{
+		"addend": 0.3
+	},
+	"ammo_speed": {
+		"percent": 0.2
+	},
+	"rpm": {
+		"percent": -0.4
+	}
+}

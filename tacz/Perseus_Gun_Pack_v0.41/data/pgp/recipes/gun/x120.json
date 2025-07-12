@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/diamond"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/gold"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "tag": "forge:nether_stars"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "pgp:x120",
+    "ammo_count": 0
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,26 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "pgp:aam_lv1"
+        }
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "pgp:aam_lv2",
+    "count": 4
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

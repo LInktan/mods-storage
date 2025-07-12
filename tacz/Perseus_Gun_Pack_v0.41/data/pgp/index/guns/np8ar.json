@@ -1,0 +1,8 @@
+{
+  "name": "pgp.gun.np8ar.name",
+  "display": "pgp:np8ar_display",
+  "data": "pgp:np8ar_data",
+  "tooltip": "pgp.gun.np8ar.desc",
+  "type": "rifle",
+  "sort": 1
+}

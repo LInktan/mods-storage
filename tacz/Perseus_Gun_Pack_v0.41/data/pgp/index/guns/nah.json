@@ -1,0 +1,8 @@
+{
+  "name": "pgp.gun.nah.name",
+  "display": "pgp:nah_display",
+  "data": "pgp:nah_data",
+  "tooltip": "pgp.gun.nah.desc",
+  "type": "rifle",
+  "sort": 1
+}

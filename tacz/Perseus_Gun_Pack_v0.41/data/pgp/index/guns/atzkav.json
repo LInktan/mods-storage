@@ -1,0 +1,8 @@
+{
+  "name": "pgp.gun.atzkav.name",
+  "display": "pgp:atzkav_display",
+  "data": "pgp:atzkav_data",
+  "tooltip": "pgp.gun.atzkav.desc",
+  "type": "sniper",
+  "sort": 2
+}

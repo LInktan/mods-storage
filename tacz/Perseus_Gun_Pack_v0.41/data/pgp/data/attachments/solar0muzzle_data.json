@@ -1,0 +1,15 @@
+{
+	"weight": 2,
+	"damage": {
+		"addend":10
+	},
+	"pierce": {
+		"multiplier": 2
+	}, 
+	"knockback": {
+		"addend": 0.5
+	},
+	"rpm": {
+		"addend": 200
+	}
+}
